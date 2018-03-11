@@ -34,6 +34,14 @@ minecraft {
     replace '@MC_VERSION@', version
 }
 
+sourceSets {
+    main {
+        resources {
+            srcDirs += 'docs'
+        }
+    }
+}
+
 license {
     sourceSets = [project.sourceSets.main]
     header = project.file("docs/licenses/LICENSE")

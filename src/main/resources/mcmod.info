@@ -1,0 +1,18 @@
+{
+    "modListVersion": 2,
+    "modList": [
+        {
+            "modid": "balancedclaytools",
+            "name": "Balanced Clay Tools",
+            "version": "${version}",
+            "mcversion": "${mcversion}",
+            "description": "Finally, an absolutely *balanced* mod!",
+            "authorList": [
+                "asiekierka"
+            ],
+            "url": "http://asie.pl",
+            "updateUrl": "http://asie.pl/files/minecraft/update/balancedclaytools.json",
+            "logoFile": "assets/balancedclaytools/textures/items/clay_pickaxe.png"
+        }
+    ]
+}
